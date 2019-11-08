@@ -37,9 +37,6 @@ const Display = () => {
         setBalls(0);
     };
 
-
-
-
     return (
         <div className='display'>
             <div className='balls'>

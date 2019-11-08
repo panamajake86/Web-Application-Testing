@@ -1,6 +1,4 @@
 import React from 'react';
-import useStrikes from '../Hooks/useStrikes';
-import useBalls from '../Hooks/useBalls';
 
 const Dashboard = (props) => {
 
